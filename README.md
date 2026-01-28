@@ -1,3 +1,6 @@
+
+![화면-녹화-중-2026-01-28-145259_1](https://github.com/user-attachments/assets/5bf46349-f586-46c9-b3ee-e5612f12dbaa)
+
 # Agent 기반 논문 구독 서비스
 ### Upstage Document Parse 및 Solar pro 3 활용
 
