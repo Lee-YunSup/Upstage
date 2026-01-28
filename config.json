@@ -1,0 +1,9 @@
+{
+  "email": "test_email@gmail.com",
+  "venues": [
+    "ACL",
+    "EMNLP",
+    "NeurIPS"
+  ],
+  "time": "08:00"
+}
