@@ -51,7 +51,7 @@ with st.sidebar:
             chat = ChatUpstage(
                 api_key=os.getenv("UPSTAGE_API_KEY"),
                 model="solar-pro3",
-                reasoning_effort="medium",
+                reasoning_effort="low",
             )
 
             prompt = f"""
