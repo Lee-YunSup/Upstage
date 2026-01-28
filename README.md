@@ -1,6 +1,4 @@
 
-![화면-녹화-중-2026-01-28-145259_1](https://github.com/user-attachments/assets/5bf46349-f586-46c9-b3ee-e5612f12dbaa)
-
 # Agent 기반 논문 구독 서비스
 ### Upstage Document Parse 및 Solar pro 3 활용
 
@@ -14,6 +12,10 @@ AI 분야는 매일 수십 편의 새로운 논문이 쏟아진다.
 
 이 프로젝트는 특정 학회의 논문을 사람이 읽기 쉬운 형태로 정리하여  
 매일 정해진 시간에 요약된 논문을 보내주는 구독형 Agent를 만드는  것을 목표로 하였다.
+
+
+전체 구조는 에이전트 설정(agent.py), 스트림릿 Ui (app.py), 그리고 실행(runner.py)을 분리하여 작동된다.
+
 
 ## 아래 기술이 사용되었다. 
 
