@@ -1,9 +1,11 @@
 {
-  "email": "test_email@gmail.com",
+  "email": "example@test.com",
   "venues": [
     "ACL",
     "EMNLP",
-    "NeurIPS"
+    "ICLR",
+    "NeurIPS",
+    "JMLR"
   ],
-  "time": "08:00"
+  "time": "21:00"
 }
