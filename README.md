@@ -17,6 +17,7 @@ AI 분야에서는 매일 수십 편의 새로운 논문이 쏟아진다.
 전체 구조는 에이전트(agent.py), 스트림릿 Ui(app.py), 그리고 실행(runner.py)을 분리하여 설계되었다.
 
 
+
 ## 어떤 기술이 사용되었을까?
 #### - arXiv API
 최신 논문을 자동으로 수집
@@ -35,11 +36,12 @@ PDF를 구조화된 텍스트로 변환
 요약과 원본 PDF를 자동 발송  
 
 
+
 ## 환경 변수 설정
 
 실행을 위해 아래 값을 .env 파일에 설정해야 한다.
 ```
-EMAIL=your_gmail_address (메일을 발송할 Gmail 주소)
+EMAIL=your_gmail_address (발송용 Gmail 주소)
 APP_PW=your_gmail_app_password (Gmail App Password)
 UPSTAGE_API_KEY=your_upstage_api_key (Upstage API 키)
 ```
