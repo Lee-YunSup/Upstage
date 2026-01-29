@@ -31,23 +31,18 @@ PDF를 구조화된 텍스트로 변환
 학회 추천에는 reasoning_effort=low로 빠른 응답  
 논문 요약에는 reasoning_effort=high로 깊이 있는 이해
 
-#### - SMTP 기반 이메일 전송
+#### - SMTP 기반 이메일 전송  
 요약과 원본 PDF를 자동 발송  
----
+
 
 ## 환경 변수 설정
 
 실행을 위해 아래 값을 .env 파일에 설정해야 한다.
 ```
-EMAIL=your_gmail_address
-APP_PW=your_gmail_app_password
-UPSTAGE_API_KEY=your_upstage_api_key
+EMAIL=your_gmail_address (메일을 발송할 Gmail 주소)
+APP_PW=your_gmail_app_password (Gmail App Password)
+UPSTAGE_API_KEY=your_upstage_api_key (Upstage API 키)
 ```
-
-EMAIL: 메일을 발송할 Gmail 주소  
-APP_PW: Gmail App Password  
-UPSTAGE_API_KEY: Upstage API 키  
-
 
 ---
 Detail: https://velog.io/@ilysm96/Solar-pro-3-%EA%B8%B0%EB%B0%98-%EB%A7%A4%EC%9D%BC-%EB%85%BC%EB%AC%B8-%ED%95%9C%ED%8E%B8-%EC%9D%BD%EA%B8%B0  
