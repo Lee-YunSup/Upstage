@@ -35,5 +35,6 @@ PDF를 구조화된 텍스트로 변환
 요약과 원본 PDF를 자동 발송  
 
 ---
-Detail: https://velog.io/@ilysm96/Solar-pro-3-%EA%B8%B0%EB%B0%98-%EB%A7%A4%EC%9D%BC-%EB%85%BC%EB%AC%B8-%ED%95%9C%ED%8E%B8-%EC%9D%BD%EA%B8%B0 
+Detail: https://velog.io/@ilysm96/Solar-pro-3-%EA%B8%B0%EB%B0%98-%EB%A7%A4%EC%9D%BC-%EB%85%BC%EB%AC%B8-%ED%95%9C%ED%8E%B8-%EC%9D%BD%EA%B8%B0  
+
 demo video: https://www.youtube.com/watch?v=Fewro4-8adQ  
